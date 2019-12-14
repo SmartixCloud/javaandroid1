@@ -1,2 +1,2 @@
 # javaandroid1
-fragmentview
+fragmentview Is  the changed code for mainpage 
